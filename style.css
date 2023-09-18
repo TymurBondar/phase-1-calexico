@@ -103,3 +103,9 @@ form {
     display:flex;
     height: 30px;
 }
+
+#price{
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+}
